@@ -146,7 +146,4 @@ Visualize the process:
 
 ---
 
-```
 
-Let me know if you want this split into separate sections, or want to add GitHub badges, emojis, or ToC (Table of Contents) — happy to help make it cooler! 😎
-```
